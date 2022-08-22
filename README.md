@@ -1,11 +1,5 @@
 ### Olá, meu nome é Ailton 👋
 
-#### Sou formado em análise de sistemas, entusiasta de tecnologia e estudante de programação.
-
-- Trabalho como gerente de projetos de TI, em uma empresa de desenvolvimento de software.
-- Em novembro de 2019 iniciei meus estudos na área de programação, para conseguir minha primeira oportunidade como desenvolvedor web.
-- Atualmente estou estudando SQL Server.
-
 Conecte-se e contate-me pelo:
 
 <a href="https://www.linkedin.com/in/ailton-gomes-de-souza-filho-77369588/">
